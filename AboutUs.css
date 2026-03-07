@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: whitesmoke;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    height: 205px;
+    width: 200px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+p{
+    text-align: center;
+}
