@@ -4,13 +4,14 @@
     background-color: whitesmoke;
 }
 h1{
+    font-family: monospace;
     display: flex;
     justify-content: center;
     margin-top: 20px;
     color: orange;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-img{
+img {
     height: 205px;
     width: 200px;
     border-radius: 20px;
@@ -24,4 +25,26 @@ div{
 }
 p{
     text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    padding: 100px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+ul{
+    display: flex;
+   justify-content: flex-end;
+}
+li{
+    display: block;
 }
