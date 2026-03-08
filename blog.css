@@ -1,0 +1,11 @@
+*{
+    background-color: whitesmoke;
+    margin: 0%;
+    padding: 0%;
+}
+img{
+    width: 110vh;
+    height: 100vh;
+    margin-top: 10px;
+    padding-left: 10px;
+}
